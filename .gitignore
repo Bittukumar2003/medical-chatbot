@@ -1,0 +1,20 @@
+# Large Binaries & Models
+model/
+*.bin
+*.gguf
+*.pth
+
+# Large Data & Documents
+data/
+*.pdf
+*.zip
+*.csv
+
+# Environments
+venv/
+.venv/
+env/
+__pycache__/
+
+# Secrets
+.env
